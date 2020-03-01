@@ -2,11 +2,11 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "JiuJiuSDK"
-  spec.version      = "1.0.1"
+  spec.version      = "1.1.0"
   spec.summary      = "JiuJiuSDK"
 
 
-  spec.description  = "JiuJiuSDK for Login"
+  spec.description  = "JiuJiuSDK for Login and Pay"
   spec.homepage     = "https://www.jiujiuapp.cn/document.html"
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/TangTingting/JiuJiuSDK.git", :tag => "#{spec.version}" }
 
   spec.requires_arc = true  
-  spec.ios.deployment_target = '8.0'
+  spec.ios.deployment_target = '10.0'
   spec.vendored_frameworks ='JiuJiuSDK.framework'
    #spec.source_files  = "JiuJiuSDK", "JiuJiuSDK/**/*.{h}"
   

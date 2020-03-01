@@ -3,6 +3,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @protocol JJObserver;
+@class JJPayParam;
 
 @interface JJSdk : NSObject
 
@@ -11,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 /** Retrieve the current iOS SDK version. */
 @property (class, copy, readonly) NSString *sdkVersion;
+
+@property (nonatomic, strong) NSString *appScheme;
 
 + (instancetype)new NS_UNAVAILABLE;
 - (instancetype)init NS_UNAVAILABLE;
@@ -30,6 +33,8 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)authorize;
 
 - (void)authorizeWithUid:(long long)uid login:(nullable NSString *)login;
+
+- (void)payWithParam:(JJPayParam *)payParam;
 
 /** Clears all saved data. */
 - (void)logout;
