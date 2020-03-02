@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		YBuFRE8DrEKu7opDVgr2Huduaos=
-		</data>
 		<key>AlipaySDK.bundle/alipay_msp_back@2x.png</key>
 		<data>
 		9QmweA7IyncTPWZIOx5ECL2ne4o=
@@ -52,6 +48,10 @@
 		<data>
 		RAAVi+94Fj3OXVId6DO03uJL37U=
 		</data>
+		<key>Headers/JJPayParam.h</key>
+		<data>
+		ASqiAnhaJ7rKhdPhFhxOg4mmHXE=
+		</data>
 		<key>Headers/JJSdk.h</key>
 		<data>
 		2JVS3D6DxcMKL2FW3PcjkulHWMM=
@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mpJcozyAuFRwEdS86cPpamKZL7E=
+		UUO80PCPrdxBvMgsVQ8smosJs08=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,10 +103,6 @@
 		<key>PrivateHeaders/JJObserversController.h</key>
 		<data>
 		Mv/B5a8dcmA2DAt9jTdXrtq4Jvc=
-		</data>
-		<key>PrivateHeaders/JJPayParam.h</key>
-		<data>
-		ASqiAnhaJ7rKhdPhFhxOg4mmHXE=
 		</data>
 		<key>PrivateHeaders/JJPayWebviewController.h</key>
 		<data>
@@ -276,6 +272,17 @@
 			GUg5qSnCve5m+MEvjHDrn7Soa84lp1p1YDZohDCJx+0=
 			</data>
 		</dict>
+		<key>Headers/JJPayParam.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ASqiAnhaJ7rKhdPhFhxOg4mmHXE=
+			</data>
+			<key>hash2</key>
+			<data>
+			W4/z7itjwvM9YD9gllbxAOq60LzU1WbbZj/mkSvV4aQ=
+			</data>
+		</dict>
 		<key>Headers/JJSdk.h</key>
 		<dict>
 			<key>hash</key>
@@ -406,17 +413,6 @@
 			<key>hash2</key>
 			<data>
 			5ZBvEvL8wTZlVWGwhRFsB5V7+H30MTswTdo+NtFLhZE=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJPayParam.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ASqiAnhaJ7rKhdPhFhxOg4mmHXE=
-			</data>
-			<key>hash2</key>
-			<data>
-			W4/z7itjwvM9YD9gllbxAOq60LzU1WbbZj/mkSvV4aQ=
 			</data>
 		</dict>
 		<key>PrivateHeaders/JJPayWebviewController.h</key>
