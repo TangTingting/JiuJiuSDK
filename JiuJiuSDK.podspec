@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "JiuJiuSDK"
   spec.version      = "1.1.0"
-  spec.summary      = "JiuJiuSDK"
+  spec.summary      = "JiuJiuSDK 1.1.0"
 
 
   spec.description  = "JiuJiuSDK for Login and Pay"

@@ -1,6 +1,0 @@
-framework module JiuJiuSDK {
-  umbrella header "JiuJiuSDK.h"
-
-  export *
-  module * { export * }
-}
