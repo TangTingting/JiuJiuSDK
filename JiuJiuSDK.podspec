@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "JiuJiuSDK"
-  spec.version      = "1.2.1"
+  spec.version      = "1.2.2"
   spec.summary      = "JiuJiuSDK"
 
 
@@ -18,5 +18,5 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = '10.0'
   spec.vendored_frameworks ='JiuJiuSDK.framework'
    #spec.source_files  = "JiuJiuSDK", "JiuJiuSDK/**/*.{h}"
-  
+  spec.framework = 'AlipaySDK'
 end
