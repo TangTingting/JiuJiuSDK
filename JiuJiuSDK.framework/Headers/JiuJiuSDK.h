@@ -7,6 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "JJSdk.h"
+#import "JJError.h"
+#import "JJLoginResult.h"
+#import "JJObserver.h"
+#import "JJPayParam.h"
 
 //! Project version number for JiuJiuSDK.
 FOUNDATION_EXPORT double JiuJiuSDKVersionNumber;

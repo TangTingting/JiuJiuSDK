@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		yY5PImeiBi1ZD/zmiAO9+hs7W+I=
+		</data>
 		<key>AlipaySDK.bundle/alipay_msp_back@2x.png</key>
 		<data>
 		9QmweA7IyncTPWZIOx5ECL2ne4o=
@@ -58,95 +62,15 @@
 		</data>
 		<key>Headers/JiuJiuSDK.h</key>
 		<data>
-		q1XTI9RwZdbv6a5qziX/Hwlfd28=
+		wBnw72AKwBDkpWJU2J9WrT59C+Q=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mpJcozyAuFRwEdS86cPpamKZL7E=
+		AJgHywpfoK5QOLKa8z7EbjstXcw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		kQedA/EO0Cj1E3Yz/UniW2t1aGs=
-		</data>
-		<key>PrivateHeaders/JJActivationValidator.h</key>
-		<data>
-		+HTDs5bIKuWu8q6G6SfeWCFSqek=
-		</data>
-		<key>PrivateHeaders/JJAuthParameters.h</key>
-		<data>
-		yG3xlnS37Fe6VhZTWvW+kHoF4dU=
-		</data>
-		<key>PrivateHeaders/JJDefinitions.h</key>
-		<data>
-		Pq24WPEhU00OXToin9jb+iZU8Tw=
-		</data>
-		<key>PrivateHeaders/JJExecuting.h</key>
-		<data>
-		GNW/bzKFxHWQmv0F5cLt1fqq/yA=
-		</data>
-		<key>PrivateHeaders/JJHostProvider.h</key>
-		<data>
-		rGN5lzZ5g7KhVvHTSa8lfqfEmlw=
-		</data>
-		<key>PrivateHeaders/JJInsecureStorage.h</key>
-		<data>
-		EZQh733gViVN0wSuoLzPmw581yQ=
-		</data>
-		<key>PrivateHeaders/JJLoginResultModel.h</key>
-		<data>
-		s/WoJZVVyIWuK6/nrJBncTGlW5w=
-		</data>
-		<key>PrivateHeaders/JJMainQueueAsyncExecutor.h</key>
-		<data>
-		/sjjJFIDUDBDHydwmaygoeBq2JI=
-		</data>
-		<key>PrivateHeaders/JJObserversController.h</key>
-		<data>
-		Mv/B5a8dcmA2DAt9jTdXrtq4Jvc=
-		</data>
-		<key>PrivateHeaders/JJPayWebviewController.h</key>
-		<data>
-		7BCm16gVdoRIami7WIYnSp0cf6Q=
-		</data>
-		<key>PrivateHeaders/JJPkce.h</key>
-		<data>
-		CzxMn0dfQHi2EhM4EwB+VhyOUMM=
-		</data>
-		<key>PrivateHeaders/JJQueryUtils.h</key>
-		<data>
-		UKARf+LA4uGBBO1oBjx1Q18Uadw=
-		</data>
-		<key>PrivateHeaders/JJSecureStorage.h</key>
-		<data>
-		VpmgPmTqVsDYiSXfyH+fHQ6SBUs=
-		</data>
-		<key>PrivateHeaders/JJStatesManager.h</key>
-		<data>
-		PeC0j8JQoJazjcoUM8UhlNppga8=
-		</data>
-		<key>PrivateHeaders/JJStatisticsDataProvider.h</key>
-		<data>
-		Q/d03vhxPJi01VhmbdcsAv3wfp4=
-		</data>
-		<key>PrivateHeaders/JJStorage.h</key>
-		<data>
-		pdDR/zr2/RXpOosq0vZy/MQcJ7I=
-		</data>
-		<key>PrivateHeaders/JJStorageFactory.h</key>
-		<data>
-		vRcIy4GRaE/VGO6/3oT3YDf1W50=
-		</data>
-		<key>PrivateHeaders/JJURLParser.h</key>
-		<data>
-		DUuBRgpMKhdrkBLoL//DF2aXuIU=
-		</data>
-		<key>PrivateHeaders/JJWebviewController.h</key>
-		<data>
-		T7yTRpkdbD2Jh9TIHh7af2WeClk=
-		</data>
-		<key>PrivateHeaders/JiuJiuLoginSDK.h</key>
-		<data>
-		fol9Rq+iAyW95Qa/bEAVqZEyTTM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -298,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q1XTI9RwZdbv6a5qziX/Hwlfd28=
+			wBnw72AKwBDkpWJU2J9WrT59C+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			/voJW7O6qyy/3pyF3dCozUz+h9D7cfS6EwC2I0lrKCM=
+			BpxdI0j5/vAk9LZ/VKQSm0NHfrbA/9qg6CX5qpYgR2I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -314,226 +238,6 @@
 			<key>hash2</key>
 			<data>
 			G268E/9GmYLvBOBYR/QzqKu9/OckBeg6o4/FmS6PmOY=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJActivationValidator.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+HTDs5bIKuWu8q6G6SfeWCFSqek=
-			</data>
-			<key>hash2</key>
-			<data>
-			RjS5iHvZ2jOWQydWFu8WiGuFFsTm63ae0MPnMsdkVDo=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJAuthParameters.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yG3xlnS37Fe6VhZTWvW+kHoF4dU=
-			</data>
-			<key>hash2</key>
-			<data>
-			CjIKaerBQHG16RqsXonu8vuIQkVr4tMby0W1akhiBcQ=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJDefinitions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Pq24WPEhU00OXToin9jb+iZU8Tw=
-			</data>
-			<key>hash2</key>
-			<data>
-			pdawdiBjktbtdPaXNS3IB325umu5YltdYkxHqVuKPNM=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJExecuting.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GNW/bzKFxHWQmv0F5cLt1fqq/yA=
-			</data>
-			<key>hash2</key>
-			<data>
-			3wfXfaFXKSFrMogvO0aWos+haKdnl0StJVoAlzHjKXc=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJHostProvider.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rGN5lzZ5g7KhVvHTSa8lfqfEmlw=
-			</data>
-			<key>hash2</key>
-			<data>
-			eN1Lg9vNJH2NBiwGqobsFrS0mT5x/Gh0YaNWmdfAx+o=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJInsecureStorage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EZQh733gViVN0wSuoLzPmw581yQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			tlnlb9wtVSQwvIZWI0fgKPanvVsLv6Ar278eIpb6eSk=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJLoginResultModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s/WoJZVVyIWuK6/nrJBncTGlW5w=
-			</data>
-			<key>hash2</key>
-			<data>
-			9AfR+3mjqETGlcz9opFjJW3KmtUZ3WU8lxaNzBlgaX8=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJMainQueueAsyncExecutor.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/sjjJFIDUDBDHydwmaygoeBq2JI=
-			</data>
-			<key>hash2</key>
-			<data>
-			XeGY6G1ZyFHolqgwLZm9+SyvWnR3kVD62aHVJGUCCps=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJObserversController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Mv/B5a8dcmA2DAt9jTdXrtq4Jvc=
-			</data>
-			<key>hash2</key>
-			<data>
-			5ZBvEvL8wTZlVWGwhRFsB5V7+H30MTswTdo+NtFLhZE=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJPayWebviewController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7BCm16gVdoRIami7WIYnSp0cf6Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			htL/Cjml+vGJgJ64wvPDD82hZAdpCWQ9z1nzagEyEeA=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJPkce.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CzxMn0dfQHi2EhM4EwB+VhyOUMM=
-			</data>
-			<key>hash2</key>
-			<data>
-			wJOZFwfbNkbh4EFZlDFsQEJOXmde2H8sYqqdipCizsc=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJQueryUtils.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UKARf+LA4uGBBO1oBjx1Q18Uadw=
-			</data>
-			<key>hash2</key>
-			<data>
-			fT236iCewh6aUIlIXsxA4Q3UvsBgOlhxkp79gojF3F0=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJSecureStorage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VpmgPmTqVsDYiSXfyH+fHQ6SBUs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ltv9s+uuSf8DJYEhvxGMN0H8tcrRcrdaifaXHtkvEd4=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJStatesManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PeC0j8JQoJazjcoUM8UhlNppga8=
-			</data>
-			<key>hash2</key>
-			<data>
-			9z3ZevRhFMTkzSPKbJM6FoVclwxj9Lf9oBFrzz/sPjQ=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJStatisticsDataProvider.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q/d03vhxPJi01VhmbdcsAv3wfp4=
-			</data>
-			<key>hash2</key>
-			<data>
-			Sdplz7sh6hx8TT6gpQXAIDL1u02wG+sbsItEDFszeqM=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJStorage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pdDR/zr2/RXpOosq0vZy/MQcJ7I=
-			</data>
-			<key>hash2</key>
-			<data>
-			iqgvFzsWhf/Mm+ef4fq3Pa3r8A5WHuK7L8pm4d+YRBI=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJStorageFactory.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vRcIy4GRaE/VGO6/3oT3YDf1W50=
-			</data>
-			<key>hash2</key>
-			<data>
-			+jdYmxboiI08r9PnipMH+MEQu22+8weExtBAkkyxsBo=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJURLParser.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DUuBRgpMKhdrkBLoL//DF2aXuIU=
-			</data>
-			<key>hash2</key>
-			<data>
-			u8DvYWXSsp/uovsCYG0+ViOelM9+8+Oy+8R3yY0lU5Y=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JJWebviewController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T7yTRpkdbD2Jh9TIHh7af2WeClk=
-			</data>
-			<key>hash2</key>
-			<data>
-			KF+0uLYW6GvW1qIFyDWtuthBBXxFVSYgbyrvvRoiCzc=
-			</data>
-		</dict>
-		<key>PrivateHeaders/JiuJiuLoginSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fol9Rq+iAyW95Qa/bEAVqZEyTTM=
-			</data>
-			<key>hash2</key>
-			<data>
-			nWtX0msGEKTEDX4zLu99KGbMkeFwhyTQyqh6q4VGgFw=
 			</data>
 		</dict>
 	</dict>
